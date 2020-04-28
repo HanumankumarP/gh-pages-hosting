@@ -8,14 +8,13 @@ Here i added the procedure to host react project into github.
 
     ```sh
     $ node --version
-    v6.10.1
     ```
 
 2. An adequate version of  [`npm`](https://nodejs.org/) is installed. Here's the adequate version I use:
 
     ```sh
     $ npm --version
-    3.10.10
+
     ```
 3. An adequate version of [`create-react-app`](https://github.com/facebookincubator/create-react-app) is installed. Here's the adequate version I use:# Hosting a **ReactApp** to GitHub Pages
 
